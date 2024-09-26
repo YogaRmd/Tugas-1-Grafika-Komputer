@@ -29,7 +29,7 @@
 
 
 # SCREENSHOT PROGRAM
-(![image](https://github.com/user-attachments/assets/9794f6b7-eb6b-4ae9-aeb9-615ab91a8dbc)
+(![image](blob:https://web.whatsapp.com/d3795dc2-60e0-42d0-96cb-108ad104986a)
 )
 
-| InesRahayuTyas - Task - Matakuliah Grafika Komputer |
+| Yoga Ramadhani - Task - Matakuliah Grafika Komputer |
