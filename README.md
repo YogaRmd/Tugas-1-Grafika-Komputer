@@ -29,7 +29,8 @@
 
 
 # SCREENSHOT PROGRAM
-(![image](blob:https://web.whatsapp.com/d3795dc2-60e0-42d0-96cb-108ad104986a)
+![image](https://github.com/user-attachments/assets/f1651c31-6ebf-4b2e-8909-bb78831afc55)
+
 )
 
 | Yoga Ramadhani - Task - Matakuliah Grafika Komputer |
